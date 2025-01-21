@@ -1,5 +1,6 @@
 # Certificate
 Certified Microsoft Power BI Data Analyst 
+![Image](https://github.com/user-attachments/assets/036714ac-1411-49a8-8f43-780c0d420cdc)
 [Credentials - muralichintakindi-9357 _ Microsoft Learn.pdf](https://github.com/user-attachments/files/18489738/Credentials.-.muralichintakindi-9357._.Microsoft.Learn.pdf)
 
 HCL Certificate
